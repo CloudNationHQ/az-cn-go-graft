@@ -7,6 +7,13 @@
 - **`absorb` Command**: New command that analyzes a Terraform plan JSON file to detect drift and automatically generates a graft manifest (`absorb.graft.hcl`) with override blocks to match the current remote state. Supports provider schema for improved output accuracy.
 - **Deep Merge for Nested Blocks**: Override files now perform deep merge on nested blocks, preserving original attributes from the source while applying override values. This applies to both static blocks and dynamic blocks.
 
+## [1.1.0](https://github.com/CloudNationHQ/az-cn-go-graft/compare/v1.0.1...v1.1.0) (2026-03-06)
+
+
+### Features
+
+* add step to release go module ([#8](https://github.com/CloudNationHQ/az-cn-go-graft/issues/8)) ([3573024](https://github.com/CloudNationHQ/az-cn-go-graft/commit/3573024f617b86a6b85b05e19b0e6893ebd5e77d))
+
 ## [1.0.1](https://github.com/CloudNationHQ/az-cn-go-graft/compare/v1.0.0...v1.0.1) (2026-03-06)
 
 
