@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/log"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/manifest"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/patch"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/vendors"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/manifest"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/patch"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/vendors"
 	"github.com/spf13/cobra"
 )
 

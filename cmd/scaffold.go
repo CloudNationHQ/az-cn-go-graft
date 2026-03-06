@@ -9,10 +9,10 @@ import (
 
 	"github.com/hashicorp/hcl/v2/hclsyntax"
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/log"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/scaffold"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/tree"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/vendors"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/scaffold"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/tree"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/vendors"
 	"github.com/spf13/cobra"
 )
 

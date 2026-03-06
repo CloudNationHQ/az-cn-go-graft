@@ -40,12 +40,12 @@ brew install ms-henglu/graft/graft
 ### Go Install
 
 ```bash
-go install github.com/CloudNationHQ/az-cn-go-graft/graft@latest
+go install github.com/CloudNationHQ/az-cn-go-graft@latest
 ```
 
 ### Manual Download
 
-Download the appropriate binary for your platform from the [Releases](https://github.com/CloudNationHQ/az-cn-go-graft/graft/releases) page.
+Download the appropriate binary for your platform from the [Releases](https://github.com/CloudNationHQ/az-cn-go-graft/releases) page.
 
 ---
 
