@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ms-henglu/graft/internal/log"
-	"github.com/ms-henglu/graft/internal/manifest"
-	"github.com/ms-henglu/graft/internal/patch"
-	"github.com/ms-henglu/graft/internal/vendors"
+	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/manifest"
+	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/patch"
+	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/vendors"
 	"github.com/spf13/cobra"
 )
 

@@ -10,9 +10,9 @@ import (
 	"github.com/hashicorp/hcl/v2"
 	"github.com/hashicorp/hcl/v2/hclsyntax"
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	"github.com/ms-henglu/graft/internal/log"
-	"github.com/ms-henglu/graft/internal/tree"
-	"github.com/ms-henglu/graft/internal/vendors"
+	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/tree"
+	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/vendors"
 )
 
 type ModuleNode struct {
