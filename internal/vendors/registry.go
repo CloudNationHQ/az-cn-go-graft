@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
 )
 
 const defaultRegistryHost = "registry.terraform.io"

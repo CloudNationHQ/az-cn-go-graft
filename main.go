@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/cmd"
-	"github.com/CloudNationHQ/az-cn-go-graft/graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/cmd"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
 	"github.com/spf13/cobra"
 )
 
