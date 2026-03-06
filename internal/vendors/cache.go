@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/go-getter"
-	"github.com/ms-henglu/graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
 )
 
 // GlobalCacheDir returns the global cache directory.
