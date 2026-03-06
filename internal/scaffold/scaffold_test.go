@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	"github.com/CloudNationHQ/az-cn-go-graft/internal/tree"
-	"github.com/CloudNationHQ/az-cn-go-graft/internal/vendors"
+	"github.com/ms-henglu/graft/internal/tree"
+	"github.com/ms-henglu/graft/internal/vendors"
 )
 
 func TestScanResources(t *testing.T) {

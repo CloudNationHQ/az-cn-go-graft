@@ -1,4 +1,4 @@
-module github.com/CloudNationHQ/az-cn-go-graft
+module github.com/ms-henglu/graft
 
 go 1.24.6
 

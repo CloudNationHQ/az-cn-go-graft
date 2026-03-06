@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	"github.com/CloudNationHQ/az-cn-go-graft/internal/hcl"
+	"github.com/ms-henglu/graft/internal/hcl"
 )
 
 // mergeModuleLists merges two lists of modules

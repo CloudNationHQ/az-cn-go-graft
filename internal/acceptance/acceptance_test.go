@@ -10,7 +10,7 @@ import (
 
 	"github.com/hashicorp/hcl/v2"
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	"github.com/CloudNationHQ/az-cn-go-graft/cmd"
+	"github.com/ms-henglu/graft/cmd"
 )
 
 // testConfig defines the test configuration parsed from expected.hcl
