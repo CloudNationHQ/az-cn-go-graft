@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/ms-henglu/graft/internal/log"
-	"github.com/ms-henglu/graft/internal/manifest"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/manifest"
 	"github.com/otiai10/copy"
 )
 

@@ -2,7 +2,7 @@ package patch
 
 import (
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	"github.com/ms-henglu/graft/internal/hcl"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/hcl"
 )
 
 // metaArgumentBlocks are block types that have special override behavior in Terraform.

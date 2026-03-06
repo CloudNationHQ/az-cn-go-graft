@@ -7,8 +7,8 @@ import (
 	"sort"
 
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	"github.com/ms-henglu/graft/internal/log"
-	"github.com/ms-henglu/graft/internal/manifest"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/manifest"
 )
 
 // ApplyPatches applies overrides to vendored modules
