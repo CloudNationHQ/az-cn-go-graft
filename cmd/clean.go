@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ms-henglu/graft/internal/log"
-	"github.com/ms-henglu/graft/internal/vendors"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/vendors"
 	"github.com/spf13/cobra"
 )
 

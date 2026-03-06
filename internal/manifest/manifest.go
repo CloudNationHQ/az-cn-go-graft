@@ -9,7 +9,7 @@ import (
 
 	"github.com/hashicorp/hcl/v2"
 	"github.com/hashicorp/hcl/v2/hclwrite"
-	grafthcl "github.com/ms-henglu/graft/internal/hcl"
+	grafthcl "github.com/CloudNationHQ/az-cn-go-graft/internal/hcl"
 )
 
 // Manifest represents the structure of manifest.hcl

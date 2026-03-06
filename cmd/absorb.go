@@ -6,8 +6,8 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/ms-henglu/graft/internal/absorb"
-	"github.com/ms-henglu/graft/internal/log"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/absorb"
+	"github.com/CloudNationHQ/az-cn-go-graft/internal/log"
 	"github.com/spf13/cobra"
 )
 
